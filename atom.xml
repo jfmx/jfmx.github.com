@@ -4,7 +4,7 @@
   <title><![CDATA[Jason Farnsworth]]></title>
   <link href="http://jfmx.github.com/atom.xml" rel="self"/>
   <link href="http://jfmx.github.com/"/>
-  <updated>2012-09-10T21:47:35-07:00</updated>
+  <updated>2012-09-10T22:13:38-07:00</updated>
   <id>http://jfmx.github.com/</id>
   <author>
     <name><![CDATA[Jason Farnsworth]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test blog post]]></title>
+    <link href="http://jfmx.github.com/blog/2012/09/10/test-blog-post/"/>
+    <updated>2012-09-10T22:10:00-07:00</updated>
+    <id>http://jfmx.github.com/blog/2012/09/10/test-blog-post</id>
+    <content type="html"><![CDATA[<p>Yup, this is a test blog post.  (I&#8217;ll delete it later.)</p>
+]]></content>
+  </entry>
   
 </feed>
